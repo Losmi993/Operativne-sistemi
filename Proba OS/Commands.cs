@@ -371,7 +371,7 @@ namespace Proba_OS
                     //TIME
 
                     //ELSE
-                    else if (split[0] != "cd" && split[0] != "clr" && split[0] != "cp" && split[0] != "rm" && split[0] != "is" && split[0] != "isdisk" && split[0] != "echo" && split[0] != "help" && split[0] != "mkdir" && split[0] != "mv" && split[0] != "quit" && split[0] != "rmdir" && split[0] != "time")
+                    else if (split[0] != "cd" && split[0] != "clr" && split[0] != "cp" && split[0] != "rm" && split[0] != "ls" && split[0] != "lsdisk" && split[0] != "echo" && split[0] != "help" && split[0] != "mkdir" && split[0] != "mv" && split[0] != "quit" && split[0] != "rmdir" && split[0] != "time")
                     {
                         wrongArgs(input);
 
