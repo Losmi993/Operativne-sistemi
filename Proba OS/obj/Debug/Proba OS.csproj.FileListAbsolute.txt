@@ -1,0 +1,6 @@
+C:\Users\Milos\Desktop\Proba OS\Proba OS\obj\Debug\Proba OS.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\Proba OS\Proba OS\bin\Debug\Proba OS.exe.config
+C:\Users\Milos\Desktop\Proba OS\Proba OS\bin\Debug\Proba OS.exe
+C:\Users\Milos\Desktop\Proba OS\Proba OS\bin\Debug\Proba OS.pdb
+C:\Users\Milos\Desktop\Proba OS\Proba OS\obj\Debug\Proba OS.exe
+C:\Users\Milos\Desktop\Proba OS\Proba OS\obj\Debug\Proba OS.pdb

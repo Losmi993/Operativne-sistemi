@@ -1,0 +1,1 @@
+lsdisk = lists all drives active in the system

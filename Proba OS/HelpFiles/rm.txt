@@ -1,0 +1,1 @@
+ rm <path> = delete given file 

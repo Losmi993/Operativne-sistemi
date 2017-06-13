@@ -1,0 +1,13 @@
+ help = shows all the commands. 
+ cd <path> = change directory 
+ clr = clear console copy 
+ cp <from> <to> = copy existing file into new one 
+ rm <path> = delete given file 
+ ls <path> = show all  files and folders in given directory 
+ lsdisk = lists all drives active in the system
+ echo <text> = print on console given text and new line 
+ mkdir <name> = in current directory makes new one with given name
+ mv <from> <to> = move existing file into new one 
+ quit = exit from application 
+ rmdir <path> = delete given directory 
+ time = shows current time and date

@@ -1,0 +1,1 @@
+ ls <path> = show all  files and folders in given directory
