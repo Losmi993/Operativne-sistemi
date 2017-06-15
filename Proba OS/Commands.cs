@@ -346,7 +346,7 @@ namespace Proba_OS
 
                 /*if (split.Length == 1 )
                 {
-                    Process.Start(split[0]);
+                    System.Diagnostics.Process.Start(split[0]);
                 }
                 if (split.Length > 1 ) { wrongArgs(input); }*/
 
