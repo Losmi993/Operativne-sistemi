@@ -1,1 +1,1 @@
-cd <path> = change directory 
+cd <path>  	 change directory 
